@@ -1,9 +1,6 @@
 # Blinkit_Dashboard
 
 
-# Blinkit_Dashboard
-
-
 
 # 📊 Sales Analysis Dashboard (Power BI)
 
